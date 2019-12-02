@@ -1,4 +1,4 @@
-package com.quytm.testinglib;
+package com.github.quytm.testinglib;
 
 /**
  * Author : Tran Minh Quy
