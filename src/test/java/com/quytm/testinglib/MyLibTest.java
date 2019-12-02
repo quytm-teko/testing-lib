@@ -1,4 +1,4 @@
-package com.teko.quytm.testinglib;
+package com.quytm.testinglib;
 
 /**
  * Author : Tran Minh Quy
