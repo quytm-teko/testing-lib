@@ -1,4 +1,4 @@
-package com.github.quytm.testinglib;
+package com.github.quytm.quytmteko;
 
 import lombok.NoArgsConstructor;
 
